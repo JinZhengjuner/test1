@@ -17,6 +17,7 @@ public class Test01 {
         System.out.println("hot commit");
 
         System.out.println("1111");
+        System.out.println("2222");
 
     }
 }
