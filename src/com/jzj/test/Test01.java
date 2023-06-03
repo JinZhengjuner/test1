@@ -12,7 +12,7 @@ public class Test01 {
 
         String c = map.get("c");
         System.out.println(c);
-        System.out.println("xxxxxxxxxxxxx");
+        System.out.println("hot commit");
 
     }
 }
