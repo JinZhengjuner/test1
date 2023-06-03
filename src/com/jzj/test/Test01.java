@@ -14,6 +14,7 @@ public class Test01 {
         System.out.println(c);
         System.out.println("master update");
         System.out.println("hot commit");
+        System.out.println("hot commit");
 
     }
 }
